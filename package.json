@@ -27,8 +27,11 @@
   "license": "MIT",
   "devDependencies": {
     "@commitlint/types": "17.0.0",
+    "@types/babel__traverse": "7.17.1",
+    "@types/babel__core": "7.1.19",
     "@types/jest": "27.5.2",
     "@types/node": "16.11.45",
+    "@types/prettier": "ts3.9",
     "@typescript-eslint/parser": "5.30.7",
     "@vercel/ncc": "0.34.0",
     "eslint": "7.32.0",
